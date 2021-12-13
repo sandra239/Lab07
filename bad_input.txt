@@ -1,0 +1,19 @@
+2021-01-01,NYC,Clothes,5.99
+2021-01-01,CHI,Shoes,10.99
+Error: Connection to database failed
+2021-01-01,NYC,Books,12.99
+2021-01-02,MSN,Utensils,4.99
+2021-01-04,NYC,Furniture,3.99
+2021-05-05,
+2021-01-05,CHI,Clothes,10.99
+2021-01-06,MSN,Utensils,6.99
+2021-01-08,NYC,Furniture,5.99
+2021-01-08,NYC,Shoes,3.99
+2021-01-10,MSN,Utensils,12.99
+2021-01-10,MSN,Utensils,12.99,12.99
+2021-01-11,MSN,Books,8.99
+2021-01-12,CHI,Shoes,20.99
+
+2021-01-13,PHX,Clothes,10.99
+2021-01-14,PHX,Clothes,6.99
+2021-01-15,CHI,Clothes,2.99
